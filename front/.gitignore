@@ -1,0 +1,3 @@
+# Ignorar archivos específicos
+.env
+node_modules/

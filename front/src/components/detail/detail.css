@@ -1,0 +1,33 @@
+.detail {
+    display: block;
+    top: 0px;
+    position: relative;
+    width: 400px;
+    height: 610px;
+    background-color: #f2f8f9;
+    color: rgb(36, 34, 34);
+    border-radius: 15px;
+    padding: 15px 24px;
+    margin: 20px auto;
+    text-decoration: none;
+    text-align: center;
+    z-index: 0;
+    overflow: hidden;
+    border: 1px solid #f2f8f9;
+    box-shadow: 6px 6px 7px 0px rgba(34, 34, 34, 0.75);
+}
+
+.detail img {
+    padding: 10px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.detail h1 {
+    font-size: xx-large;
+    height: 60px;
+}
+
+h3 {
+    font-size: large;
+}
